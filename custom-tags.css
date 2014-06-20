@@ -25,7 +25,7 @@ tag {
 	font-style:normal;
 	height:20%;
 	line-height:27px;
-	width:20%px;
+	width:30%px;
 	text-decoration:none;
 	text-align:center;
 }
@@ -59,15 +59,15 @@ tag:hover {
 	font-style:normal;
 	height:21%;
 	line-height:27px;
-	width:21%;
+	width:31%;
 	text-decoration:none;
 	text-align:center;
 }
 transmnu{opacity: 0.6; filter: background-color:white; alpha(opacity=60);}
 blubtn {
 	-moz-box-shadow:inset -8px -4px 0px 0px #000dff;
-	-webkit-box-shadow:inset -8px -4px 0px 0px #000dff;
-	box-shadow:inset -8px -4px 0px 0px #000dff;
+	-webkit-box-shadow:inset -8px -4px 0px 0px #0088ff;
+	box-shadow:inset -8px -4px 0px 0px #0088ff;
 	background-color:#0091ff;
 	-webkit-border-top-left-radius:10px;
 	-moz-border-radius-topleft:10px;
