@@ -65,15 +65,43 @@ tag:hover {
 }
 transmnu{opacity: 0.6; filter: background-color:white; alpha(opacity=60);}
 blubtn {
-	-moz-box-shadow:inset -4px -2px 0px 0px #005eff;
-	-webkit-box-shadow:inset -4px -2px 0px 0px #005eff;
-	box-shadow:inset -4px -2px 0px 0px #005eff;
-	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #00bbff), color-stop(1, #00bbff) );
-	background:-moz-linear-gradient( center top, #00bbff 5%, #00bbff 100% );
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#00bbff', endColorstr='#00bbff');
-	background-color:#00bbff;
-	-webkit-border-top-left-radius:6px;
-	-moz-border-radius-topleft:6px;}
+	-moz-box-shadow:inset -8px -4px 0px 0px #000dff;
+	-webkit-box-shadow:inset -8px -4px 0px 0px #000dff;
+	box-shadow:inset -8px -4px 0px 0px #000dff;
+	background-color:#0091ff;
+	-webkit-border-top-left-radius:10px;
+	-moz-border-radius-topleft:10px;
+	border-top-left-radius:10px;
+	-webkit-border-top-right-radius:10px;
+	-moz-border-radius-topright:10px;
+	border-top-right-radius:10px;
+	-webkit-border-bottom-right-radius:10px;
+	-moz-border-radius-bottomright:10px;
+	border-bottom-right-radius:10px;
+	-webkit-border-bottom-left-radius:10px;
+	-moz-border-radius-bottomleft:10px;
+	border-bottom-left-radius:10px;
+	text-indent:0;
+	border:1px solid #0022ff;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:17px;
+	font-weight:bold;
+	font-style:normal;
+	height:54px;
+	line-height:54px;
+	width:112px;
+	text-decoration:none;
+	text-align:center;
+}blubtn:hover {
+	background-color:#0088ff;
+}blubtn:active {
+	position:relative;
+	background-color:orange;
+	top:1px;
+}
+/* This button was generated using CSSButtonGenerator.com */
 
 
 
