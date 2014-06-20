@@ -1,4 +1,4 @@
-tag {
+.tag {
 	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #e0e0e0), color-stop(1, #dfdfdf) );
 	background:-moz-linear-gradient( center top, #e0e0e0 5%, #dfdfdf 100% );
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#e0e0e0', endColorstr='#dfdfdf');
@@ -29,7 +29,7 @@ tag {
 	text-decoration:none;
 	text-align:center;
 }
-tag:hover {
+tag {
 	-moz-box-shadow:inset -3px -3px 0px 0px #d1d1d1;
 	-webkit-box-shadow:inset -3px -3px 0px 0px #d1d1d1;
 	box-shadow:inset -3px -3px 0px 0px #d1d1d1;
@@ -111,7 +111,7 @@ blubtn {
 		-moz-box-shadow:inset -8px -4px 0px 0px #ffcc00;
 	-webkit-box-shadow:inset -8px -4px 0px 0px #ffcc00;
 	box-shadow:inset -8px -4px 0px 0px #ffcc00;
-	background-color:#ff9900;
+	background-color:orange;
 	-webkit-border-top-left-radius:10px;
 	-moz-border-radius-topleft:10px;
 	border-top-left-radius:10px;
