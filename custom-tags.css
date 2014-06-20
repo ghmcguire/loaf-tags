@@ -64,7 +64,16 @@ tag:hover {
 	text-align:center;
 }
 transmnu{opacity: 0.6; filter: background-color:white; alpha(opacity=60);}
-
+blubtn {
+	-moz-box-shadow:inset -4px -2px 0px 0px #005eff;
+	-webkit-box-shadow:inset -4px -2px 0px 0px #005eff;
+	box-shadow:inset -4px -2px 0px 0px #005eff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #00bbff), color-stop(1, #00bbff) );
+	background:-moz-linear-gradient( center top, #00bbff 5%, #00bbff 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#00bbff', endColorstr='#00bbff');
+	background-color:#00bbff;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;}
 
 
 
