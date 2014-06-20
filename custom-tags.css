@@ -63,7 +63,7 @@ tag:hover {
 	text-decoration:none;
 	text-align:center;
 }
-transmnu{opacity: 0.6; filter: background-color:white; alpha(opacity=60);}
+.transmnu{opacity: 0.6; filter: background-color:white; alpha(opacity=60);}
 blubtn {
 	-moz-box-shadow:inset -8px -4px 0px 0px #000dff;
 	-webkit-box-shadow:inset -8px -4px 0px 0px #0088ff;
