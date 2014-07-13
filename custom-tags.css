@@ -74,10 +74,10 @@ tag {
 .trans9{opacity: 0.9; filter: ; alpha(opacity=90);}
 
 blubtn {
-	-moz-box-shadow:inset -8px -4px 0px 0px #000dff;
-	-webkit-box-shadow:inset -8px -4px 0px 0px #0088ff;
-	box-shadow:inset -8px -4px 0px 0px #0088ff;
-	background-color:#0091ff;
+	-moz-box-shadow:inset -8px -4px 0px 0px#2980b9;
+	-webkit-box-shadow:inset -8px -4px 0px 0px #2980b9;
+	box-shadow:inset -8px -4px 0px 0px #2980b9;
+	background-color:#3498db;
 	-webkit-border-top-left-radius:10px;
 	-moz-border-radius-topleft:10px;
 	border-top-left-radius:10px;
